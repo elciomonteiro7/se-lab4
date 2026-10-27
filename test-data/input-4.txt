@@ -1,0 +1,4 @@
+# Fire twice in SINGLE mode to exercise alternating stores
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

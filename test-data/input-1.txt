@@ -1,0 +1,4 @@
+# Create a ship with both stores stocked and never failing
+GT4500,10,0,10,0
+TORPEDO,ALL
+EXIT
